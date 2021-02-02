@@ -1,7 +1,7 @@
 ### Hi there 👋
-#🔭 I’m currently working on the AKSLauncher and ShatteredGardens.
-#💬 Ask me about creating you a website or making assets for your next game in Unity!
-#📫 How to reach me: contact@adriankilgour.me
+##🔭 I’m currently working on the AKSLauncher and ShatteredGardens.
+##💬 Ask me about creating you a website or making assets for your next game in Unity!
+##📫 How to reach me: contact@adriankilgour.me
 
 <!--
 **AKS-Adrian/AKS-Adrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
